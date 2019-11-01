@@ -9,4 +9,7 @@ type = "page"
 weight = 199
 +++
 
-testing my about page
+Hi!
+
+My Name is Juan Avalos and I am so happy you are visiting my site! It is late at night and I'm tired, so I will update this section in the near future. Come back later for more! :)
+
