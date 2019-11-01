@@ -43,3 +43,8 @@ paginate        = 6
     name = "Home"
     url = "/"
     weight = 200
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    weight = 198
