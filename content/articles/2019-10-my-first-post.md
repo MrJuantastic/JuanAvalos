@@ -7,7 +7,7 @@ tags:
   - Test
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: /uploads/babyrocka.jpg
+image: ''
 comments: true
 share: true
 type: post
