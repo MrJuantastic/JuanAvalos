@@ -7,7 +7,7 @@ tags:
   - Test
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: ''
+image: /uploads/juan_fish_rocka_fallweather.jpg
 comments: true
 share: true
 type: post
