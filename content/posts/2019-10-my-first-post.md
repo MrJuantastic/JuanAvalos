@@ -2,9 +2,10 @@
 title: My First Post
 date: 2019-11-01T01:39:33.784Z
 draft: false
-categories: Test
+categories: Personal
 tags:
-  - Test
+  - Rocka
+  - Personal
 author: Juan Avalos
 authorImage: uploads/juan.png
 image: /uploads/juan_fish_rocka_fallweather.jpg
