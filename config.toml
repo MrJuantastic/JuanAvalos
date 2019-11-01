@@ -6,33 +6,40 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Juan Avalos"
+  subtitle    = "Creative | Writer | Texas Ex #UT16 | Ravenclaw | Just a kid from San Luis Potosi"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "uploads/coverphoto.jpg"
+  description = "Creative outlet and professional portfolio"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
+  twitterName = "MrJuantastic"
   fbName = "fakeghost"
   githubName = "eueung"
 
-  logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  logo = ""
+  orgName = "Juan Avalos"
+  orgWebsite = "https://juanavalos.netlify.com"
+  orgDescription = ""
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  author = "Juan Avalos"
+  authorAvatar = "uploads/juan.png"
+  authorLocation = "Austin, TX"
+  authorWebsite = "https://juanavalos.netlify.com"
+  authorDescription = "TBD"
 
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
   singleViewStyle = "casper"
 
+[permalinks]
+    post = "/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 200
