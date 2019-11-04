@@ -7,10 +7,10 @@ paginate        = 6
 
 [params]
   title       = "Juan Avalos"
-  subtitle    = "Creative | Writer | Texas Ex #UT16 | Ravenclaw | Just a kid from San Luis Potosi"
+  subtitle    = "Writer | Engineer | Coffee Enthusiast"
 
   cover       = "uploads/coverphoto.jpg"
-  description = "Creative outlet and professional portfolio"
+  description = "Professional Portfolio and Creative Outlet"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
