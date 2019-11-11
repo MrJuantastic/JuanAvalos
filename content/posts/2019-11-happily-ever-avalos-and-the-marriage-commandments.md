@@ -10,7 +10,7 @@ tags:
   - advice
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: /uploads/juan_fish_rocka_wedding.png
+image: /uploads/juan_fish_rocka_wedding_2.png
 comments: true
 share: true
 type: post
