@@ -8,7 +8,7 @@ tags:
   - Personal
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: /uploads/juan_fish_rocka_fallweather.jpg
+image: /uploads/juan_fish_slp.jpg
 comments: true
 share: true
 type: post
