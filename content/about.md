@@ -9,7 +9,8 @@ type = "page"
 weight = 199
 +++
 
-![Juan Avalos](juan_fish_niagara.png)
+<img src="static\uploads\juan_fish_niagara.png" alt="Fish and I at Niagara Falls!"
+	title="Fish and I at Niagara Falls!" width="800" height="700" />
 
 Hi!
 
