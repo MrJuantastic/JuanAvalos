@@ -2,7 +2,7 @@
 title: Happily Ever Avalos and the Eyes of Texas
 date: 2019-11-12T05:55:40.441Z
 draft: false
-categories: Happily Every Avalos
+categories: Happily Ever Avalos
 tags:
   - Happily Ever Avalos
   - blog
