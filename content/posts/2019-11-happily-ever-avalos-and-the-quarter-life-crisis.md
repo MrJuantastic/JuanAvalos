@@ -66,7 +66,7 @@ Fast forward to one year later and Fish was now happily married, to the most han
 ![Fish with her new nursing scrubs!](/uploads/fish_nurse.jpg "Fish with her new nursing scrubs!")
 ![Fish being goofy with her new stethoscope!](/uploads/fish_nurse_goofy.jpg "Fish being goofy with her new stethoscope!")
 
-_I mean look at how DAMN CUTE Fish looks in her nursing clothes. LOOK AT HER!_
+> _I mean look at how DAMN CUTE Fish looks in her nursing clothes. LOOK AT HER!_
 
 I understand that doing what Fish and I are doing is not as easy for every young (married) couple. Everyone’s circumstances are different. Not everyone has someone to support them through such a drastic career change. Not everyone can survive their job for two more years, like I did for Fish, to allow your partner the freedom to re-discover themselves. Not everyone knows what they want to do with their lives. If you do need to have a deep conversation to make a life changing decision, I recommend talking with your partner about the six questions below. Getting to understand your each other is critical to make sure you make the best-informed decision that you can.
 
