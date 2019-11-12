@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Juan Avalos"
   subtitle    = "Writer | Engineer | Coffee Enthusiast"
 
-  cover       = "uploads/juan_fish_slp_2.jpg"
+  cover       = "uploads/juan_fish_niagara.jpg"
   description = "Professional Portfolio and Creative Outlet"
   metaDescription = ""
   googleAnalytics = ""
@@ -45,6 +45,6 @@ paginate        = 6
     weight = 200
 
 [[menu.main]]
-    name = "Categories"
-    url = "/categories"
+    name = "Posts"
+    url = "/posts"
     weight = 198
