@@ -45,6 +45,6 @@ paginate        = 6
     weight = 200
 
 [[menu.main]]
-    name = "Posts"
-    url = "/posts"
+    name = "Categories"
+    url = "/categories"
     weight = 198
