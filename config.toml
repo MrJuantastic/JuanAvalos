@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Juan Avalos"
   subtitle    = "Writer | Engineer | Coffee Enthusiast"
 
-  cover       = "uploads/juan_fish_niagara.jpg"
+  cover       = "uploads/coverphoto.jpg"
   description = "Professional Portfolio and Creative Outlet"
   metaDescription = ""
   googleAnalytics = ""
