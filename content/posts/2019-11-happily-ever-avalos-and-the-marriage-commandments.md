@@ -63,7 +63,7 @@ In case you haven’t put it together, one of those friends was Fish. We quickly
 
 ![Fish and I with our beautiful doggo, Rocka, at our wedding reception](/uploads/juan_fish_rocka_wedding.png "Fish and I with our beautiful doggo, Rocka, at our wedding reception")
 
-_Fish and I with our beautiful doggo, Rocka, at our wedding reception_
+> _Fish and I with our beautiful doggo, Rocka, at our wedding reception_
 
 We have been through a lot in our now 11-year adventure and we have had many ups and downs. We even came close to breaking up twice within our first 6 months of dating, but at the end of those tough two nights, we both agreed on the same thing: we were willing to fight for each other and tackle the issue together. So we laid out ground rules for our relationship and always kept the core of its values ahead of us. Communication. I cannot say it enough. I’ll say it again so it sticks. COMMUNICATION, COMMUNICATION, COMMUNICATION! It has been key in our relationship and key to understanding how to swim together through this unpredictable journey called life. This is how I knew she wasn’t really upset that she couldn’t get the bananas from above the penguin. She was upset that I was not showing her HOW to do it, since she is a visual person and the first couple of times I just told her and expected her to do it like a natural, which she isn’t quite yet.
 
