@@ -9,7 +9,7 @@ type = "page"
 weight = 199
 +++
 
-![Juan Avalos](/static/uploads/juan_fish_niagara.jpg)
+![Juan Avalos](juan_fish_niagara.png)
 
 Hi!
 
