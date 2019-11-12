@@ -10,7 +10,7 @@ tags:
   - advice
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: /uploads/fish_nurse_goofy.jpg
+image: /uploads/wedding_rings.jpg
 comments: true
 share: true
 type: post
@@ -64,6 +64,7 @@ As a couple, we both agreed to the temporary path we were about to embark. Fish 
 Fast forward to one year later and Fish was now happily married, to the most handsome and amazing man ever 😊, and enrolled in a 16 month accelerated program to get her Bachelor of Science in Nursing degree at Xavier University. If only you could have seen how she was after she came home from her first day of classes. It is truly one of the happiest I’ve ever seen her in the 12 years I’ve known Fish. She was all excited and giddy about all the nice people she met and the content she was learning. In that moment I knew we made the right decision for her to take a year off, continue to discover herself, and taking steps to follow her passions. As I type this, Fish is two months away from finishing nursing school and she is ACING IT! She has even made the dean’s list every semester y’all! We have the letters up on our fridge and everything! I know she is going to be a great nurse once she graduates 😊
 
 ![Fish with her new nursing scrubs!](/uploads/fish_nurse.jpg "Fish with her new nursing scrubs!")
+![Fish being goofy with her new stethoscope!](/uploads/fish_nurse_goofy.jpg "Fish being goofy with her new stethoscope!")
 
 _I mean look at how DAMN CUTE Fish looks in her nursing clothes. LOOK AT HER!_
 
