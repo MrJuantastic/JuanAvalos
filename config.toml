@@ -45,6 +45,6 @@ paginate        = 6
     weight = 200
 
 [[menu.main]]
-    name = "Creative Portfolio"
-    url = "/Creative Portfolio"
+    name = "Categories"
+    url = "/Categories"
     weight = 198
