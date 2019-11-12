@@ -2,7 +2,7 @@
 title: Secret Weapon
 date: 2019-11-12T05:46:14.179Z
 draft: false
-categories: Poem
+categories: Poems
 tags:
   - Poetry
 author: Juan Avalos
