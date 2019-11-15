@@ -9,7 +9,7 @@ type = "page"
 weight = 199
 +++
 
-![Juan](/uploads/juan.png "Juan")
+![Juan](/uploads/juan_fish_niagara.png "Juan")
 
 Hi!
 
