@@ -1,7 +1,7 @@
 baseurl         = "https://juanavalos.netlify.com"
 theme           = "hugo-casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "juanavalos"
 paginate        = 6
 #SectionPagesMenu = "main"
 
