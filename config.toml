@@ -46,5 +46,5 @@ paginate        = 6
 
 [[menu.main]]
     name = "Portfolio"
-    url = "/Portfolio"
+    url = "/categories"
     weight = 198
