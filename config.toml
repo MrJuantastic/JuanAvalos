@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://juanavalos.netlify.com"
 theme           = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -37,7 +37,7 @@ paginate        = 6
   singleViewStyle = "casper"
 
 [permalinks]
-    post = "/post/:slug/"
+    post = "/:slug/"
 
 [[menu.main]]
     name = "Home"
