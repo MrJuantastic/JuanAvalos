@@ -17,10 +17,9 @@ weight = 197
     <label>Email <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Message <input type="textarea" name="message" /></label>
+   <textarea name="comment" form="contact" placeholder="Enter message here!"></textarea>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit">Submit</button>
   </p>
 </form>
-<textarea name="comment" form="contact" placeholder="Enter message here!"></textarea>
