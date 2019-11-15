@@ -9,7 +9,7 @@ type = "page"
 weight = 199
 +++
 
-![Juan](/static/uploads/juan.png "Juan")
+![Juan](/uploads/juan.png "Juan")
 
 Hi!
 
