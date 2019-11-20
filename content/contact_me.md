@@ -18,7 +18,7 @@ weight = 197
     <form class="contact-form" netlify>
       <div class="form-group">
         <label for="name">Name</label>
-        <input type="text" class="form-control form-control-lg" id="name" aria-describedby="emailHelp" placeholder="Your name">
+        <input type="text" class="form-control form-control-lg" id="name" placeholder="Your name">
       </div>
       <div class="form-group">
         <label for="email">Email</label>

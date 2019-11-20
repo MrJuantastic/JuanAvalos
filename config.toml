@@ -3,6 +3,7 @@ theme           = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = "juanavalos"
 paginate        = 6
+title           = "Juan Avalos"
 #SectionPagesMenu = "main"
 
 [params]
