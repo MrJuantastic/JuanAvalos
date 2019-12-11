@@ -22,7 +22,7 @@ weight = 197
       </div>
       <div class="form-group">
         <label for="email">Email</label>
-        <input type="email" class="form-control form-control-lg" id="email" placeholder="Your email">
+        <input type="email" class="form-control form-control-lg" id="email" placeholder="Your email address">
       </div>
       <div class="form-group">
         <textarea class="form-control form-control-lg" id="message" rows="3" placeholder="Your message"></textarea>
