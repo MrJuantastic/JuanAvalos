@@ -13,6 +13,7 @@ weight = 197
 <div class="container"> 
   <div class="section section-info">
     Thank you so much for visiting my site! I would love to hear from you if you:
+    
       -Have any questions about me or my content
       -Have suggestions on topics you want me to write about
       -Want to share a dad joke with me
