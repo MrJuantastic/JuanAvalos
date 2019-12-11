@@ -14,13 +14,13 @@ weight = 197
   <div class="section section-info">
     Thank you so much for visiting my site! I would love to hear from you if you:
     
-      -Have any questions about me or my content
-      -Have suggestions on topics you want me to write about
-      -Want to share a dad joke with me
-      -Have any coffee recommendations for me to try
-      -Need a friend or someone to talk to
-      -Want to talk fantasy football
-      -Have anything else you want to reach out to me about!
+    * Have any questions about me or my content
+    * Have suggestions on topics you want me to write about
+    * Want to share a dad joke with me
+    * Have any coffee recommendations for me to try
+    * Need a friend or someone to talk to
+    * Want to talk fantasy football
+    * Have anything else you want to reach out to me about!
   </div>
   <div class="section section-form">
     <form class="contact-form" netlify>
