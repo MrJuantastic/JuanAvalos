@@ -12,7 +12,14 @@ weight = 197
 
 <div class="container"> 
   <div class="section section-info">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Thank you so much for visiting my site! I would love to hear from you if you:
+      -Have any questions about me or my content
+      -Have suggestions on topics you want me to write about
+      -Want to share a dad joke with me
+      -Have any coffee recommendations for me to try
+      -Need a friend or someone to talk to
+      -Want to talk fantasy football
+      -Have anything else you want to reach out to me about!
   </div>
   <div class="section section-form">
     <form class="contact-form" netlify>
