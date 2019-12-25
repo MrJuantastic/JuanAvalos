@@ -13,7 +13,7 @@ weight = 199
 
 Hi!
 
-I decided to create my own website to have a place where I can share some of my creative projects with the world, express my feelings about what is going on in my life, and document the adventures my wife and I embark on throughout our marriage. So thank you for taking time out of your busy day to check out what is going on in my life. It really means a lot! :)
+I decided to create my own website to have a place where I can share some of my creative projects with the world and document the adventures my wife and I embark on throughout our marriage. So thank you for taking time out of your busy day to check out what is going on in my life. It really means a lot! :)
 
 When I first thought of how to format this page, I came up with so many ideas that I had a hard time picking just one. In fact, I just got a fantastic new idea as I am typing this and now, we are doing a lighting round question style game where I am your host and you're the contestant! This game consists of answering 10 questions that will get progressively more difficult to answer. If you already know me, play along to see how well you actually know me! If you don't know me, you aren't going to do well at all, but you'll have fun and that's what really matters. Make sure to track your points and if you get enough right, you'll win a big prize! It'll be totally worth it, I promise.
 
