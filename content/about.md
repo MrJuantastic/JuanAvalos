@@ -78,12 +78,15 @@ Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named
 5. Pokemon Red 
 
 **BONUS POINT** if you guessed at least three of the games on the list
+
 **SECOND BONUS POINT** if you are *#TeamCharizard*
 
 # Q10: Does pineapple belong on pizza?
 Yes. Any other answer is incorrect.
 
 **BONUS POINT** if you answered correctly. You lose a point if you answered incorrectly and if you disagree, read my disclaimer :)
+
+---
 
 That's the game! Did you like it? How'd you do? Better than you thought? Worse? Well regardless of your score, you get a prize! What's the prize you ask? The fact that you had a fun time getting to know me! :D
 
