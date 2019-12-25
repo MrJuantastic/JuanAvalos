@@ -20,33 +20,33 @@ When I first thought of how to format this page, I came up with so many ideas th
 **DISCLAIMER**: If you agree/relate to my answers, awesome! If you disagree/don't relate to my answers, well this is my game so *#sorrynotsorry*.
 
 Alright, let's go!
----
+
 # Q1: WHAT IS MY NAME?
 Juan Avalos
 
 BONUS POINT if you knew my full Mexican name (small hint for next question) is Juan Avalos Gallegos.
----
+
 # Q2: WHERE WAS I BORN?
 I was born in San Luis Potosi, Mexico. If you are not familiar with Mexico geography, it is the state that looks like a dog when you look Mexico on a map.
 
 ![San Luis Potosi](/uploads/san_luis_potosi.png "San Luis Potosi")
 
 **BONUS POINT** if you knew that dog silhouette is of a schnauzer.
----
+
 # Q3: WHERE DID I GO TO COLLEGE?
 I graduated from THE University of Texas at Austin back in 2016. <span style="color:darkorange">Hook 'Em Horns! \m/</span>
 
 **BONUS POINT** if you knew I graduated with a Mechanical Engineering Degree
----
+
 # Q4: WHEN DID I GET MARRIED?
 On September 16, 2017 I married my high school sweetheart Felicia, but you can call her Fish. 
----
-![Wedding Day](/uploads/juan_fish_wedding_ceremony.png "Wedding Day")
----
+
+![Wedding Day](/uploads/juan_fish_wedding_ceremony.jpg "Wedding Day")
+
 # Q5: DO I HAVE A PET?
 Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named Rockaleta, or Rocka for short.
-![Rockis](/uploads/rocka_flower_girl.png "Rockis")
----
+![Rockis](/uploads/rocka_flower_girl.jpg "Rockis")
+
 # Q6: WHAT ARE MY TOP 5 FAVORITE HOBBIES?
 1. Video Games
 2. Playing Sports
@@ -55,21 +55,21 @@ Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named
 5. Fantasy Football*
 
 *Simply expressing my sadness that every year I try so hard and every year I always come up short of winning the championship T-T. Never gotten last though, so that's good enough for me. *#NotTheTaco*
----
+
 # Q7: WHAT ARE MY TOP 3 FAVORITE SPORTS TO PLAY?
 1. Tennis
 2. Volleyball
 3. Soccer
 
 **BONUS POINT** if you got the order correct
----
+
 # Q8: WHAT ARE MY TOP 3 FAVORITE SPORTS TO WATCH?
 1. Football
 2. Basketball
 3. Tennis
 
 **BONUS POINT** if you got the order correct
----
+
 # Q9: WHAT ARE MY TOP 5 FAVORITE VIDEO GAMES OF ALL TIME*?
 1. Hollow Knight
 2. Super Smash Brothers Ultimate
@@ -79,7 +79,7 @@ Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named
 
 **BONUS POINT** if you guessed at least three of the games on the list
 **SECOND BONUS POINT** if you are *#TeamCharizard*
----
+
 # Q10: Does pineapple belong on pizza?
 Yes. Any other answer is incorrect.
 
@@ -94,7 +94,7 @@ Still not good enough?! Fine, the real prize is this incredibly cute picture of 
 
 If you made it this far, thank you for indulging me and my crazy ideas!! Now go check out the rest of my content and feel free to reach out to me via the Contact Me Page and/or social media!
 
-- Warmest Regards,
+Warmest Regards,
 
 Juan Avalos
 
