@@ -19,12 +19,12 @@ When I first thought of how to format this page, I came up with so many ideas th
 
 **DISCLAIMER**: If you agree/relate to my answers, awesome! If you disagree/don't relate to my answers, well this is my game so *#sorrynotsorry*.
 
-Alright, let's go!
+## Alright, let's go!
 
 # Q1: WHAT IS MY NAME?
 Juan Avalos
 
-BONUS POINT if you knew my full Mexican name (small hint for next question) is Juan Avalos Gallegos.
+**BONUS POINT** if you knew my full Mexican name (small hint for next question) is Juan Avalos Gallegos.
 
 # Q2: WHERE WAS I BORN?
 I was born in San Luis Potosi, Mexico. If you are not familiar with Mexico geography, it is the state that looks like a dog when you look Mexico on a map.
