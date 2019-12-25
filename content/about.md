@@ -9,7 +9,7 @@ type = "page"
 weight = 199
 +++
 
-![Juan](/uploads/juan_fish_niagara.png "Juan")
+<a ![Juan](/uploads/juan_fish_niagara.png "Juan") width="240" height="180" border="10" /></a>
 
 Hi!
 
