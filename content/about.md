@@ -21,6 +21,8 @@ When I first thought of how to format this page, I came up with so many ideas th
 
 ## Alright, let's go!
 
+---
+
 # Q1: WHAT IS MY NAME?
 Juan Avalos
 
