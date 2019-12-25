@@ -97,7 +97,7 @@ Not good enough? Okay, fine, you get the real prize. The real prize is the frien
 Still not good enough?! Fine, the real prize is this incredibly cute picture of Rocka wearing Mickey Mouse ears. See, I told you it would be worth it :)
 ![Rockis](/uploads/rocka_mickey_mouse.png "Rockis")
 
-If you made it this far, thank you for indulging me and my crazy ideas!! Now go check out the rest of my content and feel free to reach out to me via the Contact Me Page and/or social media!
+If you made it this far, thank you for indulging me and my crazy ideas! Now go check out the rest of my content and feel free to reach out to me via the Contact Me Page and/or social media!
 
 Warmest Regards,
 
