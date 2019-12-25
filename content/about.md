@@ -83,7 +83,7 @@ Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named
 # Q10: Does pineapple belong on pizza?
 Yes. Any other answer is incorrect.
 
-**BONUS POINT** if you answered correctly. You lose a point if you didn't and if you disagree, read my disclaimer :)
+**BONUS POINT** if you answered correctly. You lose a point if you answered incorrectly and if you disagree, read my disclaimer :)
 
 That's the game! Did you like it? How'd you do? Better than you thought? Worse? Well regardless of your score, you get a prize! What's the prize you ask? The fact that you had a fun time getting to know me! :D
 
