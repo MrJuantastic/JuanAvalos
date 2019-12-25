@@ -9,7 +9,7 @@ type = "page"
 weight = 199
 +++
 
-![Juan & Fish @ Niagara Falls](/uploads/juan_fish_niagara.png "Juan"){:height="700px" width="400px"}
+![Juan & Fish @ Niagara Falls](/uploads/juan_fish_niagara.png "Juan")
 
 Hi!
 
