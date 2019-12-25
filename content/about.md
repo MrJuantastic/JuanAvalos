@@ -9,7 +9,7 @@ type = "page"
 weight = 199
 +++
 
-![Juan & Fish @ Niagara Falls](/uploads/juan_fish_niagara.png "Juan")
+![Juan & Fish @ Niagara Falls](/uploads/juan_fish_niagara.png "Juan & Fish @ Niagara Falls")
 
 Hi!
 
