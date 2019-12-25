@@ -50,11 +50,11 @@ Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named
 # Q6: WHAT ARE MY TOP 5 FAVORITE HOBBIES?
 1. Video Games
 2. Playing Sports
-3. Painting
-4. Writing
+3. Writing
+4. Painting
 5. Fantasy Football*
 
-*Simply expressing my sadness that every year I try so hard and every year I always come up short of winning the championship T-T. Never gotten last though, so that's good enough for me. *#NotTheTaco*
+*Simply expressing my sadness that every year I start with so much hope and I always come up short of winning the championship. Never gotten last though, so that's good enough for me. *#NotTheTaco*
 
 # Q7: WHAT ARE MY TOP 3 FAVORITE SPORTS TO PLAY?
 1. Tennis
@@ -84,7 +84,9 @@ Yes! Fish and I are the proud parents to the goodest Pitbull/Labrador girl named
 # Q10: Does pineapple belong on pizza?
 Yes. Any other answer is incorrect.
 
-**BONUS POINT** if you answered correctly. You lose a point if you answered incorrectly and if you disagree, read my disclaimer :)
+**BONUS POINT** if you answered correctly 
+
+**LOSE A POINT** if you answered incorrectly and if you disagree, read my disclaimer :)
 
 ---
 
