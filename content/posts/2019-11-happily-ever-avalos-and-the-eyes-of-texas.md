@@ -21,7 +21,7 @@ Without further ado, I present to you **Happily Ever Avalos and the Eyes of Texa
 
 - - -
 
-_I can barely hear the voices. I stand waiting outside the door, nervously biting my nails. What can possibly be happening? The room falls silent. The door opens. Fish emerges clutching her phone._
+*I can barely hear the voices. I stand waiting outside the door, nervously biting my nails. What can possibly be happening? The room falls silent. The door opens. Fish emerges clutching her phone.*
 
 <span style="color:darkorange">Me</span>: What is going on? Are you okay? You just ran into the room and waived me off.
 
@@ -31,13 +31,13 @@ _I can barely hear the voices. I stand waiting outside the door, nervously bitin
 
 <span style="color:darkblue">Wife</span>: It’s happening!
 
-_For the first time in a long time, I am actually speechless. Could this be true? Could this finally be happening?! It takes me a second to recollect myself._
+*For the first time in a long time, I am actually speechless. Could this be true? Could this finally be happening?! It takes me a second to recollect myself.*
 
 <span style="color:darkorange">Me</span>: Is it really?! I knew it! I told you!
 
 <span style="color:darkblue">Wife</span>: I’m so happy! I have been so stressed out these last couple of days. My armpits are sweating!
 
-_She raises her arms to show me her armpits and laughs._
+*She raises her arms to show me her armpits and laughs.*
 
 <span style="color:darkorange">Me</span>: Are we really doing this? What do you think?
 
@@ -45,15 +45,15 @@ _She raises her arms to show me her armpits and laughs._
 
 <span style="color:darkorange">Me</span>: I’m so freaking proud of you.
 
-_I reach over and hold Fish in my arms. She looks up at me and gives me the warmest smile I’ve ever seen._
+*I reach over and hold Fish in my arms. She looks up at me and gives me the warmest smile I’ve ever seen.*
 
 <span style="color:darkblue">Wife</span>: We’re going home.
 
-_She holds me both tightly and tenderly at the same time._
+*She holds me both tightly and tenderly at the same time.*
 
 <span style="color:darkorange">Me</span>: We’re going home.
 
-_We hold each other for a while, soaking in the moment._
+*We hold each other for a while, soaking in the moment.*
 
 <span style="color:darkblue">Wife</span>: Okay after all that I’m actually hungry now. Can we make food?
 
@@ -65,7 +65,7 @@ Fish’s road to getting her Bachelor’s Degree in Nursing has been one of the 
 
 ![Fish at her nursing graduation](/uploads/fish_nursing_graduation.jpg "Fish at her nursing graduation")
 
-> _Literally Fish being the most amazing and adorable human being to ever exist. And look, no sweaty armpits! YAS QUEEN!_
+> *Literally Fish being the most amazing and adorable human being to ever exist. And look, no sweaty armpits! YAS QUEEN!*
 
 Believe it or not, this was not the highlight of her day. Now you may be asking, Juan what could possibly be a better highlight than graduating and being done with daily homework assignments, weekly quizzes, and bi-weekly tests for 16 straight months? I will tell you audience. Accepting a job offer for your dream job (and then some since she is also getting cross-trained in 2 additional units) in Austin, Texas (the best city in the best state in THE United States) literally an hour before you graduate! I know, it’s wild. It is safe to say that between accepting her offer, graduating, and getting fine wined and dined all in one day, Fish was feeling on top of the world.
 
@@ -91,7 +91,7 @@ Y’all, I cannot stress enough how deprived Fish and I were of our favorite foo
 
 2. Our Friends
 
-After college it was hard to imagine making such strong connections with other people. Little did we know that we would find a loving and supporting group of people that made us feel as though we were family. This is why it will hurt so much to say good-bye to all of them over the next couple of weeks. Whether through volleyball, board games, music festivals, puzzle crawls, or simply just a small get together and grill out, we never had a dull moment. The key core people (Bianca D’Silva, Tracy Krohn, John Russell, Sonam Patel) and all the other caring and passionate people that we are humbled to call our friends, made it more tolerable for Fish and I to survive in Ohio these last three years. I literally cannot continue writing more about this topic since I am already tearing up thinking about saying goodbye and also because I know I am about to melt writing about the final and best thing Fish and I got from Ohio.
+After college it was hard to imagine making such strong connections with other people. Little did we know that we would find a loving and supporting group of people that made us feel as though we were family. This is why it will hurt so much to say good-bye to all of them over the next couple of weeks. Whether through volleyball, board games, music festivals, puzzle crawls, or simply just a small get together and grill out, we never had a dull moment. The key core people (Bianca D’Silva, Tracy Krohn, John Russell, Sonam Patel, Brian Bachir) and all the other caring and passionate people that we are humbled to call our friends, made it more tolerable for Fish and I to survive in Ohio these last three years. I literally cannot continue writing more about this topic since I am already tearing up thinking about saying goodbye and also because I know I am about to melt writing about the final and best thing Fish and I got from Ohio.
 
 1. Alms Park
 
@@ -99,7 +99,7 @@ My favorite thing about Ohio is and will forever be Alms Park. This is the place
 
 ![Our Wedding Day <3](/uploads/juan_fish_wedding.jpg "Our Wedding Day <3")
 
-> _The happiest day of our lives <3_
+> *The happiest day of our lives <3*
 
 The way Fish looked as she walked out of the pavilion and down the aisle. The best man and maid of honor speeches given by Miguel, Frenchi, Enrique, and Ashley. Fish and I’s first dance under the moon light. The breaking of my infamous piñata, Pepito. Our family and friends dancing the night away. This park will hold these unforgettable and magical moments that I forever cherish.
 
