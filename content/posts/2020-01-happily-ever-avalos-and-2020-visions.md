@@ -17,34 +17,34 @@ type: post
 ---
 *Fish and I are sitting at the dining room table. Rain falls heavily outside. The energy inside the room is tense. Fish is on the verge of crying.* 
 
-Fish: I honestly did not believe it as going to be this hard.
+<span style="color:blue">Fish</span>: I honestly did not believe it as going to be this hard.
 
 
-Me: We talked about this. It is not like it came out of nowhere.
+<span style="color:darkorange">Me</span>: We talked about this. It is not like it came out of nowhere.
 
 
 Fish: No, we didn’t. I don’t remember that.
 
 
-Me: Yes, we did. We talked about it together before moving back. We both agreed that this is something I would try to purposely pursue for the next three to five years.
+<span style="color:darkorange">Me</span>: Yes, we did. We talked about it together before moving back. We both agreed that this is something I would try to purposely pursue for the next three to five years.
 
 
 Fish: It still doesn’t change the fact that we are struggling.
 
 
-Me: Well now that I am done with grad school applications, I can start looking for a job to help us until we know what the next year will look like.
+<span style="color:darkorange">Me</span>: Well now that I am done with grad school applications, I can start looking for a job to help us until we know what the next year will look like.
 
 
 Fish: Even if you get a job now, it will take a full month for us to see that money.
 
 
-Me: I know, but we can’t control that. We can make it until then without a problem if we manage our expenses. We just have to try and not make stupid purchases.
+<span style="color:darkorange">Me</span>: I know, but we can’t control that. We can make it until then without a problem if we manage our expenses. We just have to try and not make stupid purchases.
 
 
 Fish: You’re making feel guilty about buying sodas at work when I’ve had a shitty shift. 
 
 
-Me: I want to tell you yes to the things you want because you do deserve them, but I have to tell you no because we can’t afford them. We both know that talking about money gives you anxiety and I have to be the one that tracks our finances and makes sure we don’t go under.
+<span style="color:darkorange">Me</span>: I want to tell you yes to the things you want because you do deserve them, but I have to tell you no because we can’t afford them. We both know that talking about money gives you anxiety and I have to be the one that tracks our finances and makes sure we don’t go under.
 
 
 *Fish covers hers face with her hands.*
@@ -56,7 +56,7 @@ Fish: Well it still feels like I can never relax. When will I have something to 
 *Fish begins to cry. My heart breaks to see her like this. I hold her hand. Rocka tries to lick her face to make her feel better.*
 
 
-Me: Look, I know it’s hard, but we’ll figure it out. Together. We just need to budget better and focus on the things we can control. That will help things to get better. We also have the income tax to help us out.
+<span style="color:darkorange">Me</span>: Look, I know it’s hard, but we’ll figure it out. Together. We just need to budget better and focus on the things we can control. That will help things to get better. We also have the income tax to help us out.
 
 
 *Fish looks up and wipes her tears. She thanks Rocka and Rocka goes to lie down in the bed. Fish looks at me.*
@@ -65,37 +65,37 @@ Me: Look, I know it’s hard, but we’ll figure it out. Together. We just need 
 Fish: I just can’t control this and it stresses me out. I need to work on not getting anxious over situations I cannot control. 
 
 
-Me: You are already doing everything you can. We both know how hard your job is and I am not asking you to do more than that. Your job ensures we have food on the table and a roof over our heads.
+<span style="color:darkorange">Me</span>: You are already doing everything you can. We both know how hard your job is and I am not asking you to do more than that. Your job ensures we have food on the table and a roof over our heads.
 
 
 Fish: It just feels like I am not doing enough and it’s just hard.
 
 
-Me: All of this is hard for me too. For the most part I am the one that keeps the house clean and running. I’m the one that does most of the cooking to make sure you have food for your shifts and when you wake up after your shifts. I am the one that keeps track of our finances and stresses about making sure all the bills get paid. I deal with addressing all my family drama because God knows no one else will do. I support your family too and help with your family drama. I had to do all that while still working to finish my grad school applications.
+<span style="color:darkorange">Me</span>: All of this is hard for me too. For the most part I am the one that keeps the house clean and running. I’m the one that does most of the cooking to make sure you have food for your shifts and when you wake up after your shifts. I am the one that keeps track of our finances and stresses about making sure all the bills get paid. I deal with addressing all my family drama because God knows no one else will do. I support your family too and help with your family drama. I had to do all that while still working to finish my grad school applications.
 
 
 *We look at each other as the rain gets louder outside.*
 
 
-Me: I just feel -
+<span style="color:darkorange">Me</span>: I just feel -
 
 
 Fish: I know, I know we have to budget better.
 
 
-Me: That wasn’t even it.
+<span style="color:darkorange">Me</span>: That wasn’t even it.
 
 
 Fish: Then what is it?
 
 
-Me: I FEEL FUCKING SAD.
+<span style="color:darkorange">Me</span>: I FEEL FUCKING SAD.
 
 
 *Fish gets caught off guard by what I said. I begin to cry. Her face immediately softens.*
 
 
-Me: I feel like I have been in a depression over the last three months. Our finances are fucked, my sleep schedule is super off, and my mental health is at an all-time low. My grandmother literally just passed away and with everything going on I feel like I haven’t been able to grieve. You get anxious and emotional when you are stressed out because that’s who you are (Fish chuckles at this remark) and I feel that even with all of this going on, I have to be the one to keep us positive and moving forward because otherwise we will both collapse. You said it earlier that misery loves company. I know for a fact that if I don’t keep it together, we will collapse.
+<span style="color:darkorange">Me</span>: I feel like I have been in a depression over the last three months. Our finances are fucked, my sleep schedule is super off, and my mental health is at an all-time low. My grandmother literally just passed away and with everything going on I feel like I haven’t been able to grieve. You get anxious and emotional when you are stressed out because that’s who you are (Fish chuckles at this remark) and I feel that even with all of this going on, I have to be the one to keep us positive and moving forward because otherwise we will both collapse. You said it earlier that misery loves company. I know for a fact that if I don’t keep it together, we will collapse.
 
 
 *I wipe the tears from my eyes but continue crying.  Fish hold my hand.*
@@ -110,7 +110,7 @@ Fish: Come on. Go to the bed.
 Fish: You’ve told me to be more selfish so I am being selfish and I want cuddles… I just really want you to get in babe. Everything would be much better if we knew what you are going to be doing for the next two years. You are so talented and I want nothing but to see you succeed and be happy doing the things you love. I feel like I was frustrated at you, when I should be frustrated at the problem. Like you always say it’s me and you versus the problem, not each other. The extra shifts should help us out and the income tax will be a nice boost. I don’t know if this is helping, but it’s helping me. We also need to start going to the gym. And drinking more water. And I want to spend more time with you because I feel like I don’t get enough time with you since we only see each other for two hours on the days I work and I sleep for most of the day when I don’t. As long as we are together we will figure things out. I love you.
 
 
-Me: I love you too.
+<span style="color:darkorange">Me</span>: I love you too.
 
 
 *The rain outside slowly stops. I stop crying and close my eyes. She rubs my back and plays with my hair as we remain cuddling in bed.* 
