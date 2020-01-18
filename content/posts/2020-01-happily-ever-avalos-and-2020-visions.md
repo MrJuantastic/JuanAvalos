@@ -139,7 +139,7 @@ Uff. This one was going to be my overall number one bad thing if the number one 
 
 I will never forget where I was when I found out. It was Dec. 28th and we were about to open presents with my niece when I got the call. Nothing in this world would have prepared me for the news. She started feeling sick at dinner on the 25th. She got blood work on the 26th. We found out she had sickle cell anemia on the 27th and her body was beginning to shut down. The doctors decided to do a hail mary and do a blood transfusion. The blood transfusion was tricky because at that point the sickle cell anemia would mean that her body could reject the blood and it would be her body attacking her body. It didn’t work. She passed away on the 28th. They had a viewing memorial the same night. The mass was the next morning and they cremated her that afternoon. Everything happened so quickly. The worst part was that unfortunately Fish and I could honestly not afford to travel back to San Luis Potosi. I was absolutely heartbroken. This is the first major loss I’ve experienced in my life. I am still grieving. I believe I will be grieving for a while still. My grandmother was the absolute most sweet, kind, and loving human being I have ever met. I loved her so much. I miss her so much.
 
-![Mi Abuelita Lupe <3](uploads/abue.lupe.jpg "Mi Abuelita Lupe")
+![Mi Abuelita Lupe <3](uploads/abue_lupe.jpg "Mi Abuelita Lupe")
 
 > Mi abuelita Lupe <3 
 
@@ -149,7 +149,7 @@ I will never forget where I was when I found out. It was Dec. 28th and we were a
 
 I try not to dwell on the bad things if I can. I usually do try to keep things positive. But as someone who used to bottle up his emotions, I am learning to allow myself to be more in touch with my emotions. These bad things have been just the tip of the iceberg. A lot more has happened, but luckily, there has been more good things than bad things. Before I get to them, let’s cleanse the pallet, shall we? Here is Rocka being an absolute derp.
 
-![](uploads/rocka.derp.jpg)
+![Rocka being a derp](uploads/rocka_derp.jpg "Rocka being a derp")
 
 Alright, now we are in a better place. Let’s get to the good things.
 
@@ -179,7 +179,7 @@ Fish and I love to eat and we are so happy that we can have these restaurant so 
 
 Gambino is my favorite performer of all time. He is an incredible artist, writer, actor, director, and creative genius. The last ten years have been an incredibly dominant period for him. We camped for his concert for nine hours and it was totally fucking worth it. Easily my favorite concert of all time.
 
-![Childish Gambino @ ACL](uploads/gambino.acl.jpg "Childish Gambino @ ACL")
+![Childish Gambino @ ACL](uploads/gambino_acl.jpg "Childish Gambino @ ACL")
 
 > My favorite pictures that I took of Gambino 
 
@@ -201,7 +201,7 @@ Another reason Fish and I were excited to come back to Austin was to have the op
 
 This has singlehandedly been the best thing that has happened to me since moving back to Austin. Over the last seven months I have been able to play in two soccer leagues, play tennis, learn how to play softball, pick up my piano lessons again, complete a new painting, read a couple of books, cook a little more, gone mountain biking, write a whole new feature screenplay, write a new short story, create a website from scratch with the help of a friend, learn how to shoot and edit a video all by myself, play video games at my own leisure, work out and re-visit my bullet journal. These last seven months have without a doubt been the most creative and self-nurturing months I have ever had in my entire life. Sometimes it felt like I was not doing much, but now that I think about all the things I just wrote all down, I am so fucking proud of myself. When I decided to quit my job to pursue my creative talents, this is exactly how I hoped the majority of my time would be spent.
 
-![Hollow Knight Painting](uploads/hollow.knight.painting.jpg "Hollow Knight Painting")
+![Hollow Knight Painting](uploads/hollow_knight_painting.jpg "Hollow Knight Painting")
 
 > My Hollow Knight Painting!
 
