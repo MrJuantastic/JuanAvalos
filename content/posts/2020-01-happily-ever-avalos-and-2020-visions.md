@@ -17,7 +17,7 @@ type: post
 ---
 *Fish and I are sitting at the dining room table. Rain falls heavily outside. The energy inside the room is tense. Fish is on the verge of crying.* 
 
-<span style="color:darkblue">Fish</span>: I honestly did not believe it as going to be this hard.
+<span style="color:darkblue">Fish</span>: I honestly did not believe it was going to be this hard.
 
 <span style="color:darkorange">Me</span>: We talked about this. It is not like it came out of nowhere.
 
@@ -43,9 +43,9 @@ type: post
 
 *Fish begins to cry. My heart breaks to see her like this. I hold her hand. Rocka tries to lick her face to make her feel better.*
 
-<span style="color:darkorange">Me</span>: Look, I know it’s hard, but we’ll figure it out. Together. We just need to budget better and focus on the things we can control. That will help things to get better. We also have the income tax to help us out.
+<span style="color:darkorange">Me</span>: Look, I know it’s hard, but we’ll figure it out. Together. We just need to budget better and focus on the things we can control. That will help things get better. We also have the income tax to help us out.
 
-*Fish looks up and wipes her tears. She thanks Rocka and Rocka goes to lie down in the bed. Fish looks at me.*
+*Fish looks up and wipes her tears. She thanks Rocka and Rocka goes to lie down on the bed. Fish looks at me.*
 
 <span style="color:darkblue">Fish</span>: I just can’t control this and it stresses me out. I need to work on not getting anxious over situations I cannot control. 
 
@@ -87,15 +87,15 @@ type: post
 
 When we left Ohio to come back to Texas we were so excited. We knew we were making a big change and taking some big risks, but at the moment we were more caught up with the process of coming home that all the worries were put in the back seat. Well now it is seven months later, and we are finally feeling the magnitude of our huge life-changing move. I won’t sugar coat or look for silver linings. The last seven months have been incredibly challenging not only for us personally but for our marriage. 
 
-Fish and I never claim to be perfect. However, often we get comments from friends and family that Fish and I have a perfect marriage. People tell us that we are very supportive of each other, always seem to be on the same page, and that we are a “goals” as a couple. Just like everyone else, Fish and I know we have problems or dilemmas that we need to work through and address together. The only difference is that when we strongly disagree we stop ourselves from discussing any problem we may have in public. We strongly believe that we should handle our problems in private and in a civilized matter. Throughout out our time together, Fish and I have actually not had that many fights; I would say 99/100 fights we have are in a silly way or not big enough to be a problem and we let it go. However, once every couple of months, or sometimes years, we have that one fight that actually matters, and emotions tend to escalate. The dialogue you just read is from that one fight Fish and I were things get a bit more tense and it happened shortly after the new year started.
+Fish and I never claim to be perfect. However, often we get comments from friends and family that Fish and I have a perfect marriage. People tell us that we are very supportive of each other, always seem to be on the same page, and that we are a “goals” as a couple. Just like everyone else, Fish and I know we have problems or dilemmas that we need to work through and address together. The only difference is that when we strongly disagree we stop ourselves from discussing any problem we may have in public. We strongly believe that we should handle our problems in private and in a civilized matter. Throughout our time together, Fish and I have actually not had that many fights; I would say 99/100 fights we have are in a silly way or not big enough to be a problem and we let it go. However, once every couple of months, or sometimes years, we have that one fight that actually matters, and emotions tend to escalate. The dialogue you just read is from the one fight Fish and I  had shortly after the new year started and where things got a bit more tense.
 
-We are choosing to show this with everyone to give an insight to our marriage and how even when we tend to have a very emotional fight, we try to remain as loving and as respectful as possible. We try not to raise our voice, huge emphasis on try. We absolutely never resort to name-calling. We never attack each other’s character. Above else, we recognize that if we are not in a loving mood, for us not to even begin discussing any issue at hand. We wait until we are both in the correct mindset to have a conversation and have constructive discourse. Over the last seven months, it has taken a lot more conscious effort from both Fish and I to stick to these ground rules and clearly communicate and work on our marriage. Our overall motto is something I say all the time. It is me and you vs. the problem. It is never you vs. me vs. the problem. Every single day we try our best to live this motto. Some days we do great and we celebrate each other for our efforts. Some days we fail but we give each other grace and support to get back on track. 
+We are choosing to show this with everyone to give an insight to our marriage and how even when we tend to have a very emotional fight, we try to remain as loving and as respectful as possible. We try not to raise our voice or cuss, huge emphasis on try. We absolutely never resort to name-calling. We never attack each other’s character. Above all else, we recognize that if we are not in a loving mood then we know not to even begin discussing any issue at hand. We wait until we are both in the correct mindset to have a conversation and be able to have constructive discourse. Over the last seven months, it has taken a lot more conscious effort from both Fish and I to stick to these ground rules and clearly communicate and work on our marriage. Our overall motto is something I say all the time. It is me and you vs. the problem. It is never you vs. me vs. the problem. Every single day we try our best to live this motto. Some days we do great and we celebrate each other for our efforts. Some days we fail but we give each other grace and support to get back on track. 
 
 It took me about a solid month to decide what I wanted to write for this installment of Happily Ever Avalos. It has been seven months since I wrote the last installment of this series and a looooooot has happened in our lives. I decided that I will break down the good and bad things that have happened since our move back to Austin thus far. I am hoping that by doing this I can achieve three things.
 
 1. Serve as my personal venting space.
 
-    a. More often than not, when you write things down you can take control of those things vs. them taking control of you.
+   a. More often than not, when you write things down you can take control of those things vs. them taking control of you.
 2. Share the lessons Fish and I have learned
 
    a.	Life is always about learning and sharing what you have learned with others
@@ -105,7 +105,7 @@ Now I cannot also fit every single little thing that has happened in here. There
 
 ## 5. Fish’s start date at her new nursing job got push back by a month and her first paycheck for 2 months.
 
- Alright, this one was basically the very first thing to go bad when we moved back to Austin. Essentially what happened was that the accelerated program Fish graduated from was not in the system for the Texas Board of Nursing. This caused Fish’s application for her license to be deemed incomplete. The Texas Board of Nursing saw this error and went “we are going to wait for her to reach out to us about this problem. The problem was that THERE WAS NO NOTIFICATION, NO EMAIL, NO NOTHING TO LET US KNOW THERE WAS AN ISSUE! How the fuck were we supposed to reach out to them about it?!?! Anyway…luckily their office is here in Austin and we went to tell them about the situation and if it wasn’t for us guilt tripping them into doing it, they wouldn’t have gotten their shit together to get Fish her license. This issue pushed back Fish’s start date by a month and her first paycheck by two months. That meant we had to live of our savings 2 extra months without any income, something we did not account in our planning.
+Alright, this one was basically the very first thing to go bad when we moved back to Austin. Essentially what happened was that the accelerated program Fish graduated from was not in the system for the Texas Board of Nursing. This caused Fish’s application for her license to be deemed incomplete. The Texas Board of Nursing saw this error and went “we are going to wait for her to reach out to us about this problem. The problem was that THERE WAS NO NOTIFICATION, NO EMAIL, NO NOTHING TO LET US KNOW THERE WAS AN ISSUE! How the fuck were we supposed to reach out to them about it?!?! Anyway…luckily their office is here in Austin and we went to tell them about the situation and if it wasn’t for us guilt tripping them into doing it, they wouldn’t have gotten their shit together to get Fish her license. This issue pushed back Fish’s start date by a month and her first paycheck by two months. That meant we had to live of our savings 2 extra months without any income, something we did not account in our planning.
 
 * #### Morals of the story
 
