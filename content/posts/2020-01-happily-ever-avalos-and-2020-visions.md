@@ -95,7 +95,7 @@ It took me about a solid month to decide what I wanted to write for this install
 
 1. Serve as my personal venting space.
 
-      a. More often than not, when you write things down you can take control of those things vs. them taking control of you.
+    a. More often than not, when you write things down you can take control of those things vs. them taking control of you.
 2. Share the lessons Fish and I have learned
 
    a.	Life is always about learning and sharing what you have learned with others
@@ -103,7 +103,7 @@ It took me about a solid month to decide what I wanted to write for this install
 
 Now I cannot also fit every single little thing that has happened in here. Therefore, I will break it down into the top 5 good and bad things that have happened in the last seven months. So, let’s start with the bad things.
 
-## 5. Fish’s start date at her new nursing job got push back by a month and her first paycheck for 2 months. 
+## 5. Fish’s start date at her new nursing job got push back by a month and her first paycheck for 2 months.
 
  Alright, this one was basically the very first thing to go bad when we moved back to Austin. Essentially what happened was that the accelerated program Fish graduated from was not in the system for the Texas Board of Nursing. This caused Fish’s application for her license to be deemed incomplete. The Texas Board of Nursing saw this error and went “we are going to wait for her to reach out to us about this problem. The problem was that THERE WAS NO NOTIFICATION, NO EMAIL, NO NOTHING TO LET US KNOW THERE WAS AN ISSUE! How the fuck were we supposed to reach out to them about it?!?! Anyway…luckily their office is here in Austin and we went to tell them about the situation and if it wasn’t for us guilt tripping them into doing it, they wouldn’t have gotten their shit together to get Fish her license. This issue pushed back Fish’s start date by a month and her first paycheck by two months. That meant we had to live of our savings 2 extra months without any income, something we did not account in our planning.
 
@@ -111,89 +111,107 @@ Now I cannot also fit every single little thing that has happened in here. There
 
      Don’t be afraid to reach out to your job/internship/board/whatever if you have not heard anything. If phones/emails are not working, and if you can, visit the office and hold them responsible if they messed up. o	If you are planning a trip/move like we did, budget some extra money and then add half of that amount if you can and you will be set for any unforeseen circumstances.
 
- ## 4. Family Draaaaaamaaaaaa 
+## 4. Family Draaaaaamaaaaaa
 
 As much as we have enjoyed having our family around, something I will discuss in the good things section, it also has brought in a loooot of family drama. It doesn’t help that all this drama has added extra stress to some of the things Fish and I have tried to focus now that we are back in Austin. I won’t spend much time here, because every family has it and I’m sure you understand. It is just something Fish and I kind of did not get a lot of living halfway across the country.
 
 * #### Moral of the story
+
      It is okay to hold your family responsible for their actions. It is also okay to take a break from your family to recharge and focus on yourself. 
 
-## 3. Grad School Applications 
+## 3. Grad School Applications
 
 Let me explain. Yes, part of the reason for us moving back to Austin was for me to pursue a different career path and that currently implies graduate school. However, the process of applying to graduate school has been nothing but stress inducing. First thing was studying to re-take the GRE. I cannot stress enough how much I detest standardized testing. I mean, I studied hundreds of words for the verbal section and I LITERALLY ONLY SAW TWO OF THEM IN THE WHOLE TEST! I’m not upset or salty about it at all…okay maybe just a tiny bit. In addition to retaking the test, there were also a lot of time-consuming requirements for the applications. Making sure that everything is at the best quality possible while dealing with all the distractions and setbacks life throws at you is extremely challenging. Not to add that it is still rather expensive to apply to graduate school. Couple it all together to ensure everything gets submitted and processed in time for the deadline and you got yourself an exhausting overall not great time.
 
-* #### Moral of the story 
+* #### Moral of the story
+
      If you are planning to apply to graduate school, give yourself at least a solid year prior to the deadline to work on the applications.
 
-
-## 2. Fish’s Night Shift Schedule 
+## 2. Fish’s Night Shift Schedule
 
 Uff. This one was going to be my overall number one bad thing if the number one bad thing had not happened recently. When we first moved down we thought night shift was not going to be that bad. Let’s just say we were super wrong. Night shifts have been tough on Fish because she works 12- 14 hours straight over night, which means that when she gets home somewhere between eight or nine in the morning, she then proceeds to sleep in until somewhere between three of 5 o’clock in the afternoons and then go back to work around 6:15 pm to do it all over again. You can see how this can be incredibly exhausting both mentally, physically, and emotionally. Night shifts have been tough for me because as a natural night owl, I have slowly and steadily been staying up later and later to sort of awkwardly match her schedule. This has meant a lot late nights with me writing/gaming/reading/binge watching in a dark room. The night shifts have brough a level of isolation to both Fish and I that we did not expect. Not only has night shifts messed with our sleeping schedules, but it has also messed up our workout regimes, our eating habits, our family time, and most importantly, our Fish and Juan family time.
 
 * #### Moral of the story
+
      Night shifts are hard so it’s extra critically that you try to take time for yourself. Meditate. Drink Water. Get good sleep. Eat balanced meals. Stay active. Be kind to yourself.
 
-## 1. My grandmother passing away 
+## 1. My grandmother passing away
 
 I will never forget where I was when I found out. It was Dec. 28th and we were about to open presents with my niece when I got the call. Nothing in this world would have prepared me for the news. She started feeling sick at dinner on the 25th. She got blood work on the 26th. We found out she had sickle cell anemia on the 27th and her body was beginning to shut down. The doctors decided to do a hail mary and do a blood transfusion. The blood transfusion was tricky because at that point the sickle cell anemia would mean that her body could reject the blood and it would be her body attacking her body. It didn’t work. She passed away on the 28th. They had a viewing memorial the same night. The mass was the next morning and they cremated her that afternoon. Everything happened so quickly. The worst part was that unfortunately Fish and I could honestly not afford to travel back to San Luis Potosi. I was absolutely heartbroken. This is the first major loss I’ve experienced in my life. I am still grieving. I believe I will be grieving for a while still. My grandmother was the absolute most sweet, kind, and loving human being I have ever met. I loved her so much. I miss her so much.
 
-Mi abuelita Lupe <3 
+![Mi Abuelita Lupe <3](uploads/abue.lupe.png "Mi Abuelita Lupe")
+
+> Mi abuelita Lupe <3 
 
 * #### Moral of the story
+
      Call your grandparents. Call your parents. Call all of your loved ones. Tell them you love them any chance you can. Try to see them if you can. You’ll never know when it will be the last time you see them.
 
 I try not to dwell on the bad things if I can. I usually do try to keep things positive. But as someone who used to bottle up his emotions, I am learning to allow myself to be more in touch with my emotions. These bad things have been just the tip of the iceberg. A lot more has happened, but luckily, there has been more good things than bad things. Before I get to them, let’s cleanse the pallet, shall we? Here is Rocka being an absolute derp.
 
-Rocka Pic
+![](uploads/rocka.derp.png)
 
 Alright, now we are in a better place. Let’s get to the good things.
 
-## 5. NO MORE WINTER!!!! 
+## 5. NO MORE WINTER!!!!
 
 Most normal people might not think this is a good thing, and let me tell you, they are wrong. After 3 real winters in Ohio, having Texas weather has been incredible. No snow. No black ice. Not having to defrost your car and remove ice from your mirrors. No need to wear five layers to try to stay warm. In my opinion, the move was worth it just for warmer weather. 
 
 * #### Moral of the story
+
      Live somewhere warm.
 
-## 4. Seeing Childish Gambino at ACL 
+## 4. Getting to eat all the Austin food
 
-Gambino is my favorite performer of all time. He is an incredible artist, writer, actor, director, and creative genius. The last ten years have been an incredibly dominant period for him. We camped for his concert for nine hours and it was totally fucking worth it. Easily my favorite concert of all time.
-
-My favorite pictures that I took of Gambino 
-
-* #### Moral of the story
-     Gambino Forever
-
-## 3. Being close to family and reconnecting with friends 
-
-Getting closer to our family was one of the primary drivers for Fish and I to move back to Austin. In the three years we lived in Ohio I was able to see my family three times and Fish got to see her family twice. Now we basically see our family all the time. We currently live in an apartment with Fish’s sister and get to see our niece over the weekends every two weeks. My brother lives 10 minutes away from us and we’ve helped him transition to his new house. Our parents are only a five-hour drive away and we see them quite often. We’ve gotten the opportunity to spend more quality time with them and learn from each other in ways we have never done before. We basically have immersed ourselves in our families once again, which also tends to cause some family drama. However, even if our families might bring drama and complications at times, they still serve as our main support system. At this moment in time, where we are working to figure out what we want our lives to look like for the years to come, we would not want to have it any other way.  
-
-Another reason Fish and I were excited to come back to Austin was to have the opportunity to reconnect to our old college friends. However, not all of my friendships were in the best condition due to some wrongdoings I have done in the past that were never addressed. Over the past three years, I have embarked in a deeper self-reflect journey which has allowed my emotional intelligence and maturity to grow. I knew for me to truly regain the trust and love of some of my friends, I needed to address the past and how I was wrong and how I hurt them. I mean with one of my friends, who I know is reading this, we had a three-hour coffee talk in which we cleared up the air. There was no judging, no animosity, and no dishonesty. It was purely cathartic. Once I was able to be open and honest to these friends, we were able patch things up and begin to nurture our friendship once again. We’ve also had the opportunity to become friends with some very cool people since we’ve gotten back to Austin. We’ve had cookouts, birthday dinners, game nights, gaming sessions, tailgates and so many more activities that have helped with the transition and counteract the effects of night shifts. Because of our friends, Fish and I have slowly but surely began to feel more at home.
-* #### Moral of the story
-     If you can, and if you like your family, try to stay close to them. Your family, whether your own or the one you have chosen for yourself, is the most important thing in this world. In addition, friends are the family you chose. Pick them well and make sure to nurture those bonds as much as you can.
-
-## 2. Getting to eat all the Austin food
 Pluckers. Taco Joint. Ramen Tatsu-ya, Julie’s Noodles. Franklin’s Barbecue (we even got to meet Aaron Franklin when we went!). Trudy’s and their Mexican Martinis. Chi’Lantro. Estancia Churrascaria. Velvet Taco. The list goes on and on and on. 
 
-My brother, cousins, Fish and I meeting Aaron Franklin, the owner and pit master of Franklin’s BBQ! 
+![Meeting Aaron Franklin](uploads/franklins.png "Meeting Aaron Franklin")
+
+> My brother, cousins, Fish and I meeting Aaron Franklin, the owner and pit master of Franklin’s BBQ! 
 
 Fish and I love to eat and we are so happy that we can have these restaurant so close to us again. Not only that, but we have so many of our favorite Mexican dishes and cuisines, like barbacoa and cecina, readily available whenever we want. We can literally drive 10 minutes in any direction and find a taco truck or a Michoacana Meat Market to supply us with all our cravings. Since we’ve been back we have had more carne asadas by the pool than I can count. Which is amazing because we literally only used the pool and did carne asada like three times in Cincinnati. 
 
 * #### Moral of the story
+
      Austin has great food to satisfy any craving you have. 
 
-## 1. Freedom to nurture hobbies 
+## 3. Seeing Childish Gambino at ACL
+
+Gambino is my favorite performer of all time. He is an incredible artist, writer, actor, director, and creative genius. The last ten years have been an incredibly dominant period for him. We camped for his concert for nine hours and it was totally fucking worth it. Easily my favorite concert of all time.
+
+![Childish Gambino @ ACL](uploads/gambino.acl.png "Childish Gambino @ ACL")
+
+> My favorite pictures that I took of Gambino 
+
+* #### Moral of the story
+
+     Gambino Forever
+
+## 2. Being close to family and reconnecting with friends
+
+Getting closer to our family was one of the primary drivers for Fish and I to move back to Austin. In the three years we lived in Ohio I was able to see my family three times and Fish got to see her family twice. Now we basically see our family all the time. We currently live in an apartment with Fish’s sister and get to see our niece over the weekends every two weeks. My brother lives 10 minutes away from us and we’ve helped him transition to his new house. Our parents are only a five-hour drive away and we see them quite often. We’ve gotten the opportunity to spend more quality time with them and learn from each other in ways we have never done before. We basically have immersed ourselves in our families once again, which also tends to cause some family drama. However, even if our families might bring drama and complications at times, they still serve as our main support system. At this moment in time, where we are working to figure out what we want our lives to look like for the years to come, we would not want to have it any other way.  
+
+Another reason Fish and I were excited to come back to Austin was to have the opportunity to reconnect to our old college friends. However, not all of my friendships were in the best condition due to some wrongdoings I have done in the past that were never addressed. Over the past three years, I have embarked in a deeper self-reflect journey which has allowed my emotional intelligence and maturity to grow. I knew for me to truly regain the trust and love of some of my friends, I needed to address the past and how I was wrong and how I hurt them. I mean with one of my friends, who I know is reading this, we had a three-hour coffee talk in which we cleared up the air. There was no judging, no animosity, and no dishonesty. It was purely cathartic. Once I was able to be open and honest to these friends, we were able patch things up and begin to nurture our friendship once again. We’ve also had the opportunity to become friends with some very cool people since we’ve gotten back to Austin. We’ve had cookouts, birthday dinners, game nights, gaming sessions, tailgates and so many more activities that have helped with the transition and counteract the effects of night shifts. Because of our friends, Fish and I have slowly but surely began to feel more at home.
+
+* #### Moral of the story
+
+     If you can, and if you like your family, try to stay close to them. Your family, whether your own or the one you have chosen for yourself, is the most important thing in this world. In addition, friends are the family you chose. Pick them well and make sure to nurture those bonds as much as you can.
+
+## 1. Freedom to nurture hobbies
 
 This has singlehandedly been the best thing that has happened to me since moving back to Austin. Over the last seven months I have been able to play in two soccer leagues, play tennis, learn how to play softball, pick up my piano lessons again, complete a new painting, read a couple of books, cook a little more, gone mountain biking, write a whole new feature screenplay, write a new short story, create a website from scratch with the help of a friend, learn how to shoot and edit a video all by myself, play video games at my own leisure, work out and re-visit my bullet journal. These last seven months have without a doubt been the most creative and self-nurturing months I have ever had in my entire life. Sometimes it felt like I was not doing much, but now that I think about all the things I just wrote all down, I am so fucking proud of myself. When I decided to quit my job to pursue my creative talents, this is exactly how I hoped the majority of my time would be spent.
 
-Latest Painting: Hollow Knight
+![Hollow Knight Painting](uploads/hollow.knight.painting.png "Hollow Knight Painting")
+
+> My Hollow Knight Painting!
 
  I also do not plan to slow down as we move into the new year. My first goal is to post a picture a day on Instagram to get more comfortable sharing my life and my adventures with the outside world. Throughout 2020, I am pushing myself to complete and publish one new creative project per week, with this being the first one to kick things off. Once a month I will be releasing a new Volume in the Happily Ever Avalos series, a poem, a piece of art, and an article covering a topic of my choosing. My stretch goal is also to shoot, edit, and release a video every two months beginning in March. This one will require a little more effort and planning, but I am hopeful I can do it. I am well aware I am taking a huge risk leaving my very comfortable engineering job to pursue my creative projects. It is time to be brave and make moves to makes some or all of these hobbies into a career path. However, I certainly would not be able to do any do this without the love, support, patience, and guidance from my beautiful wife. She has been incredibly understanding with where I am in life and has been extraordinarily loving in supporting in getting to where I want in life.
 
 * #### Moral of the story
+
      Follow your dreams and stay true to yourself no matter what you do. Your creations are your own and should be for yourself and no one else first and foremost. However, create what you want, when you want it, however you want it, and for whoever you want. Don’t let anyone dim your light and support those who are trying to shine their own.
 
----
+- - -
 
 If you have made it this far into me rambling, I want you to know that you are a real one. If any of the things I create and/or share resonate with you, I hope that they can help you with whatever self-doubt, family drama, life dilemma, or anything else that you may have going on in your life.  
 
