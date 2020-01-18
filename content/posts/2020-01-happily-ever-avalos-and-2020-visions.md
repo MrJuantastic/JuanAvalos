@@ -1,7 +1,7 @@
 ---
 title: Happily Ever Avalos and 2020 Visions
 date: 2020-01-17T23:17:37.662Z
-draft: true
+draft: false
 categories: Happily Ever Avalos
 tags:
   - Happily Ever Avalos
