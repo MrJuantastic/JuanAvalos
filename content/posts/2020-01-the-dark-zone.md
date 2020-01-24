@@ -15,7 +15,7 @@ type: post
 ---
 It can hit you at any moment.\
 It arrives without a warning,\
-immediately souring your enjoyment\
+immediately souring your enjoyment,\
 as a dark storm angrily begins forming.\
 Before you know it you fell all alone.\
 You begin to fall deeper and deeper into the dark zone.
@@ -29,9 +29,9 @@ You fall deeper and deeper into the dark zone.
 
 You desperately try to look for a sign to calm your fears.\
 Any little thing to get you of this slippery slope.\
-Right when you are about to accept defeat, a little ball of sunshine appears\
-as your pet cuddles right next to you to give you warmth and hope.\
-They remind you that you are not on your own\
+Right when you are about to accept defeat, a little ball of sunshine appears.\
+Your pet cuddles right next to you to give you warmth and hope.\
+They remind you that you are not on your own,\
 and help you navigate out of the dark zone.
 
 Your pet looks at you with their eyes full of wonder,\
