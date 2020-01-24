@@ -17,7 +17,7 @@ It can hit you at any moment.\
 It arrives without a warning,\
 immediately souring your enjoyment,\
 as a dark storm angrily begins forming.\
-Before you know it you fell all alone.\
+Before you know it you feel all alone.\
 You begin to fall deeper and deeper into the dark zone.
 
 You try to scream for help but the words won't come out.\
