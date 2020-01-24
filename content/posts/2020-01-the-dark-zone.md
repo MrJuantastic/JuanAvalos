@@ -19,7 +19,6 @@ as a dark storm angrily begins forming.\
 Before you know it you fell all alone.\
 You begin to fall deeper and deeper into the dark zone.
 
-
 You try to scream for help but the words won't come out.\
 The voices inside your head tell you that you're worthless.\
 You can't help but succumb to them and fuel the self-doubt,\
@@ -41,6 +40,10 @@ thanking their lucky stars that you are their hooman.\
 The storm slowly fades as you have found your way back home,\
 leaving behind the lonely dark zone.
 
+- - -
+
 This poem is deidcated to Rocka. I am so grateful to be your hooman <3
 
 ![Rocka's true colors](/uploads/rocka_watercolor.jpg "Rocka's true colors")
+
+> Watercolor painting by Fish :)
