@@ -1,13 +1,14 @@
 ---
 title: The Dark Zone
 date: 2020-01-24T18:42:04.448Z
-draft: true
+draft: false
 categories: Poems
 tags:
   - Poetry
   - Rocka
 author: Juan Avalos
 authorImage: uploads/juan.png
+image: uploads/dark_zone.jpg
 comments: true
 share: true
 type: post
