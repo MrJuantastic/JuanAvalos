@@ -43,3 +43,4 @@ leaving behind the lonely dark zone.
 
 This poem is deidcated to Rocka. I am so grateful to be your hooman <3
 
+![Rocka's true colors](/uploads/rocka_watercolor.jpg "Rocka's true colors")
