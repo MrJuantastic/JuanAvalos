@@ -28,7 +28,7 @@ You hide under the covers overwhelmed by the unknown.\
 You fall deeper and deeper into the dark zone.
 
 You desperately try to look for a sign to calm your fears.\
-Any little thing to get you of this slippery slope.\
+Any little thing to get you out of this slippery slope.\
 Right when you are about to accept defeat, a little ball of sunshine appears.\
 Your pet cuddles right next to you to give you warmth and hope.\
 They remind you that you are not on your own,\
