@@ -31,7 +31,6 @@ If you would like to have your very own house crest, I am open and available to 
 
 ![Hufflepuff Crest](/uploads/hufflepuff_crest_1.jpg "Hufflepuff Crest")
 ![Hufflepuff Crest](/uploads/hufflepuff_crest_2.jpg "Hufflepuff Crest")
-![Hufflepuff Crest](/uploads/hufflepuff_crest_1.jpg "Hufflepuff Crest")
 ![Hufflepuff Crest](/uploads/ravenclaw_crest_1.jpg "Hufflepuff Crest")
 ![Hufflepuff Crest](/uploads/ravenclaw_crest_2.jpg "Hufflepuff Crest")
 ![Hufflepuff Crest](/uploads/ravenclaw_crest_3.jpg "Hufflepuff Crest")
