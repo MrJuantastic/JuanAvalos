@@ -28,3 +28,12 @@ Unfortunately, after a couple of phone switches, a broken phone, and losing some
 
 
 If you would like to have your very own house crest, I am open and available to make and sell you a painting! Just reach out to me if that is something you would be interested in! :)
+
+![Hufflepuff Crest](/uploads/hufflepuff_crest_1.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/hufflepuff_crest_2.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/hufflepuff_crest_1.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/ravenclaw_crest_1.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/ravenclaw_crest_2.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/ravenclaw_crest_3.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/ravenclaw_crest_4.jpg "Hufflepuff Crest")
+![Hufflepuff Crest](/uploads/ravenclaw_crest_5.jpg "Hufflepuff Crest")
