@@ -9,7 +9,7 @@ tags:
   - Fundraiser
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: uploads/juan_long_hair.jpg
+image: uploads/first_hair_donation.jpg
 comments: true
 share: true
 type: post
