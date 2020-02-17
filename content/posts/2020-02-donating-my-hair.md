@@ -9,7 +9,7 @@ tags:
   - Fundraiser
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: uploads/evolution_of_hair.jpg
+image: uploads/hair_timeline.jpg
 comments: true
 share: true
 type: post
