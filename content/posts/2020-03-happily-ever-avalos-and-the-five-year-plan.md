@@ -14,7 +14,7 @@ comments: true
 share: true
 type: post
 ---
-> *Fish looks at me with a huge smile on her face. I can tell that her heart just melted at the cuteness she is witnessing infront of her.*
+> *Fish looks at me with a huge smile on her face. I can tell that her heart just melted at the cuteness she is witnessing in front of her.*
 
 <span style="color:darkblue">Fish</span>: Okay, now I want one.
 
