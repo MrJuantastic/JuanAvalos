@@ -2,7 +2,7 @@
 title: Happily Ever Avalos and the Five Year Plan
 date: 2020-03-02T03:39:51.209Z
 draft: false
-categories: Happiily Ever Avalos
+categories: Happily Ever Avalos
 tags:
   - Happily Ever Avalos
   - Marriage
