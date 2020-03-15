@@ -15,7 +15,7 @@ comments: true
 share: true
 type: post
 ---
-Often times when I feel stressed or frustrated I turn to poetry to express what I am feeling. The thought of this poem came to me nearly a year ago as I was in the process of leaving my full-time job. I finally decided to sit down and write this poem last summer when I decided to pursue graduate school. At first this poem meant to serve as my personal statement of purpose. However, I had to scrap the idea since this poem did not address some critical questions that a good statement of purpose is meant to answer. I decided to keep the poem because something inside of me told me that I would use it later. I am a week from my graduate school admission decisions and this poem is serving as my beacon of hope. If you are going through something similar, I see you and I am incredibly proud of you for betting on yourself. 
+Often times when I feel stressed or frustrated, I turn to poetry to express what I am feeling. The thought of this poem came to me nearly a year ago as I was in the process of leaving my full-time job. I finally decided to sit down and write this poem last summer when I decided to pursue graduate school. At first this poem meant to serve as my personal statement of purpose. However, I had to scrap the idea since this poem did not address some critical questions that a good statement of purpose is meant to answer. I decided to keep the poem because something inside of me told me that I would use it later. I am a week from my graduate school admission decisions and this poem is serving as my beacon of hope. If you are going through something similar, I see you and I am incredibly proud of you for betting on yourself. 
 
 ---
 
