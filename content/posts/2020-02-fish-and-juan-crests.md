@@ -11,7 +11,7 @@ tags:
   - Hogwarts
 author: Juan Avalos
 authorImage: uploads/juan.png
-image: uploads/hufflepuff_ravenclaw_universal.jpg
+image: uploads/hufflepuff_ravenclaw.jpg
 comments: true
 share: true
 type: post
