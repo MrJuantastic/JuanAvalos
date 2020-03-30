@@ -4,6 +4,7 @@ date: 2020-02-02T03:45:17.206Z
 draft: false
 categories: Art
 tags:
+  - Art
   - Painting
   - Hufflepuff
   - Ravenclaw
