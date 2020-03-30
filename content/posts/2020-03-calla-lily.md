@@ -4,9 +4,10 @@ date: 2020-03-30T20:06:23.944Z
 draft: false
 categories: Art
 tags:
+  - Art
   - Watercolor
-  - painting
-  - flower
+  - Painting
+  - Flowers
 author: Juan Avalos
 authorImage: uploads/juan.png
 image: uploads/calla_lily_sketch.jpg
