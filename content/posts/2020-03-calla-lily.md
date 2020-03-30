@@ -5,7 +5,7 @@ draft: false
 categories: Art
 tags:
   - Art
-  - Watercolor
+  - Watercoloring
   - Painting
   - Flowers
 author: Juan Avalos
