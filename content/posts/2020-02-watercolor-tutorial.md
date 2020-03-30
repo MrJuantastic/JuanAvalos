@@ -6,8 +6,7 @@ categories: Art
 tags:
   - Art
   - Painting
-  - Watercolors
-  - Fish
+  - Watercoloring
 author: Juan Avalos
 authorImage: uploads/juan.png
 image: uploads/watercolor_art.jpg
