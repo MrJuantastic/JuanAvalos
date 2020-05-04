@@ -14,7 +14,7 @@ comments: true
 share: true
 type: post
 ---
-If you follow me on instagram you probably already saw this. If you haven't, why aren't you following me?! I post cool things! **[Click here](https://www.instagram.com/mr_juantastic/)** to check out my IG and follow me please :)
+If you follow me on instagram you probably already saw this. If you haven't, why aren't you following me?! I post cool things! **[Click here](https://www.instagram.com/MrJuantastic/)** to check out my IG and follow me please :)
 
 Anywaaaaay... A couple of weeks back I reallllly wanted to do something cool and fun with Fish since we had not had a date in a while. At the moment Fish was starting to get into watercolor paintings and we went out and got her some supplies so she could paint some cool stuff. I decided to put two and two together and told Fish I wanted to do a watercolor painting tutorial with her since I have ever utilized watercolors before. 
 
